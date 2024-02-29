@@ -21,6 +21,8 @@
 <p align='center'>
   📫  <a href='mailto:dejan.sheki.lukic@gmail.com'>dejan.sheki.lukic@gmail.com</a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=DejanSheki)
 <!--
 **DejanSheki/DejanSheki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +37,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=DejanSheki)
+
